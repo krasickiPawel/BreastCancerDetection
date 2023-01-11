@@ -1,7 +1,10 @@
 # Environment
 venv/
+venv
 
 # Redundant folders
 results/
 .idea/
 app/__pycache__/
+results
+.idea
