@@ -12,7 +12,7 @@ enough, it can be completely cured. One way of diagnosis is histopathology, whic
 pictures taken from a microscope. Thanks to the development of artificial intelligence, it
 is possible to detect objects in images, including breast cancer cells in histopathological
 images. Convolutional networks have been created especially for this purpose, which can
-efficiently analyze and select graphical features. The document includes a description of the
+efficiently analyze and select graphical features. The "thesis.pdf" document includes a description of the
 workflow for deep learning of the convolutional network resnet18, implementation of the
 algorithm in order for the network to process user images, testing the learning parameters
 and the created GUI, and instructions for using the graphical user interface. Finally, options
